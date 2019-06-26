@@ -79,5 +79,17 @@ camaro.volume = 5;
 camaro.numbOfSeats = 2;
 camaro.getOpt();
 
+let accent:Hyundai = new Hyundai();
+accent.model = 'Accent';
+accent.volume = 1.6;
+accent.numbOfSeats = 5;
+accent.getOpt();
+
+let sonata:Hyundai = new Hyundai();
+sonata.model = 'Sonata';
+sonata.volume = 2.4;
+sonata.numbOfSeats = 5;
+sonata.getOpt();
+
 
 
