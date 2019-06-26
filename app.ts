@@ -17,7 +17,7 @@ class BMW extends Car{
     }
 
     getBrand(): void{
-        console.log(this.volume);
+        console.log(this.brand);
     }
 }
 

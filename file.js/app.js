@@ -11,7 +11,7 @@ class BMW extends Car {
         console.log(this.model + ' ' + this.volume + ' ' + this.numbOfSeats);
     }
     getBrand() {
-        console.log(this.volume);
+        console.log(this.brand);
     }
 }
 class Chevrolet extends Car {
